@@ -1,0 +1,7 @@
+*.dpkl
+*.hdf5
+*.h5
+*.csv
+*.log
+*.npy
+__pycache__/
